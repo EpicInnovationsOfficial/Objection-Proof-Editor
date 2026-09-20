@@ -1,5 +1,4 @@
 READ ME
-(Also available here: https://github.com/EpicInnovationsOfficial/Objection-Proof-Editor/blob/main/objection-proof-editor-repo/README.md)
 
 Objection-Proof Editor — Sales Language Corrector
 Built by Epic Innovations, Inc., shared for anyone who wants their sales writing and call language to stop triggering resistance before it starts.
